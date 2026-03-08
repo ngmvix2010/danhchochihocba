@@ -1,4 +1,4 @@
-const CORRECT_PIN = "090310";
+const CORRECT_PIN = "220509";
 const SECRET_PASS = "danhchoem";
 
 let currentPin = "";
